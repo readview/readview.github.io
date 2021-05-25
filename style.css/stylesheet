@@ -5,11 +5,19 @@
    background: ?;
    color: white;
    padding: 1rem 0;
+   position: fixed;
+   left: 0;
+   top: 0;
+   right: 0;
 }
 .logo-nav-container {
    display: flex;
     justify-content: space-between;
     align-items: center;
+}
+.logo {
+  letter-spacing: 5px;
+  font-size: 1.2em;
 }
 .navigation ul {
    margin: 0;
@@ -23,6 +31,5 @@
      display: block;
      padding: 0.5rem 1rem;
 }
-
 
 
