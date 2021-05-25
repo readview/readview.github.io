@@ -1,3 +1,14 @@
+.body {
+    margin: 0;
+}
+.header {
+   background: ?;
+   color: white;
+}
+.logo-nav-container {
+   display: flex;
+    justify-content: space-between;
+}
 
 
 
