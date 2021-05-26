@@ -52,7 +52,8 @@ i#ojo {
 .fa {
     font: normal normal normal 14px/1 FontAwesome;
     display: inline-block;
-    font-size: 1.4rem;
+    font-size: 2rem;
     margin-right: 15px;
     color: #ffffff;
+    padding: 0.5rem 1rem;
 }
