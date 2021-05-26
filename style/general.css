@@ -50,6 +50,7 @@ i#ojo {
     font-size: 1.4rem;
 }
 .fa {
+    display: inline-block;
     font-size: 1.4rem;
     margin-right: 15px;
     color: #ffffff;
