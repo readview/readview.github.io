@@ -16,8 +16,16 @@ body {
     align-items: center;
 }
 .logo {
-  letter-spacing: 5px;
-  font-size: 1.2em;
+  letter-spacing: 10px;
+    font-size: 2rem;
+    text-decoration: none;
+    color: #fff;
+    margin-left: 2%;
+}
+i#ojo {
+    color: #ffffff;
+    margin-left: -60%;
+    font-size: 2rem;
 }
 .navigation ul {
    margin: 0;
@@ -30,6 +38,19 @@ body {
   .navigation ul li a {
      display: block;
      padding: 0.5rem 1rem;
+     text-decoration: none;
+     color: #ffffff;
 }
-
-
+.b {
+    margin-right: 10px;
+    font-size: 1.4rem;
+}
+.c {
+    /* margin-right: 100px; */
+    font-size: 1.4rem;
+}
+.fa {
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: 1.4rem;
+    margin-right: 15px;
+}
